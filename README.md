@@ -1,4 +1,4 @@
-# AI Coding Tools Showcase
+# deepseek AI Coding Tools Showcase
 
 🌐 [English](README.md) | [中文](README.zh-CN.md)
 
